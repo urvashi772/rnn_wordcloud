@@ -1,0 +1,7 @@
+streamlit
+numpy
+matplotlib
+wordcloud
+nltk
+PyPDF2
+Pillow
